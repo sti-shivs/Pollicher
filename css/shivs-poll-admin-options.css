@@ -1,0 +1,9 @@
+.shivs-poll-options-fieldset {
+	border:solid;
+	border-width: 1px;
+}
+.shivs-poll-options-fieldset legend{
+	border:solid;
+	border-width: 1px;
+	font-weight: bold;
+}

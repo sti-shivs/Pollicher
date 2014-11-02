@@ -1,0 +1,32 @@
+input#shivs-poll-question, input#shivs-poll-name {
+    width: 98%;
+}
+
+p#shivs-poll-add-answer-holder {
+    display: none;
+    padding-right: 10px;
+    text-align: right;
+}
+
+p#shivs-poll-add-customfield-holder {
+    display: none;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.shivs_poll_tr_customize_answer td table {
+	margin-left: 50px;
+}
+
+.shivs_poll_tr_customize_answer input[type="text"] {
+	width:auto !important;
+}
+.shivs-poll-answers-fieldset {
+	border:solid;
+	border-width: 1px;
+}
+.shivs-poll-answers-fieldset legend{
+	border:solid;
+	border-width: 1px;
+	font-weight: bold;
+}
